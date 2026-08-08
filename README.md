@@ -22,8 +22,7 @@
 | 🎯 **Focus** | Python fundamentals → Data Analytics → Machine Learning |
 | 📓 **Format** | Every exercise includes a stated problem, working code, and verified output |
 
-👉 Start here: [`Python_Practice-1.ipynb`](./Python_Practice-1.ipynb)
-
+👉 Start here: [`Python_Practice-1.ipynb`](Python_Practice-1.ipynb)
 ---
 
 ## 📌 About This Repository
