@@ -88,12 +88,8 @@ Python-Practice/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Soumya0006/Python-Practice.git
 cd Python-Practice
-
-# (Optional) create a virtual environment
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
 
 # Launch Jupyter
 jupyter notebook
@@ -121,7 +117,6 @@ Aspiring Data Analyst building practical skills in Python, SQL, and data visuali
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/soumyaranjan-das-660a1140b/) · [Email](sd5916111@gmail.com)
 
-> Replace the links above with your actual profile URLs before publishing.
 
 ---
 
